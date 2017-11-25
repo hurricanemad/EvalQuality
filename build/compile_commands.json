@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/EvalQuality/build",
+  "command": "/usr/bin/c++    -isystem /usr/local/include -isystem /usr/local/include/opencv  -O3 -DNDEBUG   -o CMakeFiles/evalquality.dir/main.cpp.o -c /home/dox/Algorithm/EvalQuality/main.cpp",
+  "file": "/home/dox/Algorithm/EvalQuality/main.cpp"
+}
+]

@@ -1,0 +1,24 @@
+======= Summary IoU =======
+0	background : 0.883192
+1	aero plane : 0.838272
+2	bicycle: 0.396842
+3	bird	: 0.50887
+4	boat	: 0.654408
+5	bottle: 0.352629
+6	bus	: 0.788496
+7	car	: 0.453956
+8	cat	: 0.806551
+9	chair: 0.430876
+10	cow	: 0.830738
+11	dining-table: 0.326717
+12	dog	: 0.766873
+13	horse: 0.805746
+14	motorbike	: 0.755312
+15	person: 0.82131
+16	potted-plant: 0.214009
+17	sheep: 0.794817
+18	sofa: 0
+19	train: 0.791508
+20	TV/Monitor: 0.68927
+Mean IoU over 21 classes:0.614781
+Pixel-wise Accuracy:86.0489%

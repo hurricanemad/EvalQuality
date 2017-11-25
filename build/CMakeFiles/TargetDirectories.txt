@@ -1,0 +1,7 @@
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/install.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/evalquality.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/EvalQuality/build/CMakeFiles/edit_cache.dir
